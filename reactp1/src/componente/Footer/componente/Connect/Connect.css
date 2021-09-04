@@ -1,0 +1,83 @@
+.container_connect_lable {
+    display: flex;
+    font-size: 2rem;
+    color: #696666;
+    margin-left: 20px;
+    margin-top: 30px; 
+  }
+  
+  .container_connect_detail {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    margin-left: 20px;
+    margin-top: 30px; 
+  }
+  
+  .container_connect_element1 {
+    width: 20px;
+    height: 30px;
+    padding-left: 10px;
+    background-image: url("../../../../media/face1.png");
+    background-size: 30px,30px;
+    margin-left: 5px; 
+  }
+  
+  .container_connect_element2 {
+    width: 20px;
+    height: 30px;
+    padding-left: 10px;
+    background-image: url("../../../../media/in1.png");
+    background-size: 30px,30px;
+    margin-left: 5px; 
+  }
+  
+  .container_connect_element3 {
+    width: 20px;
+    height: 30px;
+    padding-left: 10px;
+    background-image: url("../../../../media/g1.png");
+    background-size: 30px,30px;
+    margin-left: 5px; 
+  }
+  
+  .container_connect_element4 {
+    width: 20px;
+    height: 30px;
+    padding-left: 10px;
+    background-image: url("../../../../media/instam1.png");
+    background-size: 30px,30px;
+    margin-left: 5px; 
+  }
+  
+  .container_connect_element1:hover {
+    width: 20px;
+    height: 30px;
+    padding-left: 10px;
+    background-image: url("../../../../media/face2.png");
+    background-size: 30px,30px; 
+  }
+  
+  .container_connect_element2:hover {
+    width: 20px;
+    height: 30px;
+    padding-left: 10px;
+    background-image: url("../../../../media/in2.png");
+    background-size: 30px,30px; 
+  }
+  
+  .container_connect_element3:hover {
+    width: 20px;
+    height: 30px;
+    padding-left: 10px;
+    background-image: url("../../../../media/g2.png");
+    background-size: 30px,30px; 
+  }
+  
+  .container_connect_element4:hover {
+    width: 20px;
+    height: 30px;
+    padding-left: 10px;
+    background-image: url("../../../../media/instam2.png");
+    background-size: 30px,30px;
+  }

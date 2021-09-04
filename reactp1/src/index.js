@@ -6,7 +6,6 @@ import Todolist from './Todolist';
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    <Todolist />
   </React.StrictMode>,
   document.getElementById('root')
 );
