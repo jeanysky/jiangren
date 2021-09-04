@@ -8,9 +8,7 @@ const Footer = () => (
     <Fragment>
         <div class="container_contact" id="contact">
             <Contact />
-            <div class="container_connect">
-                <Connect />
-            </div>
+            <Connect />
             <Map />
         </div>
     </Fragment>
